@@ -1,9 +1,7 @@
 //
 //  UserViewModel.swift
 //  RandomUserList
-//
-//  Created by Sakshi on 28/02/25.
-//
+
 
 
 import Foundation
